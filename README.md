@@ -1,1 +1,0 @@
-# TransferLearning-AlpacaClassification-CNN
